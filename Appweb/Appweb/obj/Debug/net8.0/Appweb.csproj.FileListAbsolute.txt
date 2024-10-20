@@ -28,3 +28,4 @@ C:\Users\alopez01\OneDrive - Ellucian Company L.P\Documents\c#\Appweb\Appweb\obj
 C:\Users\alopez01\OneDrive - Ellucian Company L.P\Documents\c#\Appweb\Appweb\obj\Debug\net8.0\Appweb.pdb
 C:\Users\alopez01\OneDrive - Ellucian Company L.P\Documents\c#\Appweb\Appweb\obj\Debug\net8.0\Appweb.genruntimeconfig.cache
 C:\Users\alopez01\OneDrive - Ellucian Company L.P\Documents\c#\Appweb\Appweb\obj\Debug\net8.0\ref\Appweb.dll
+C:\Users\alopez01\OneDrive - Ellucian Company L.P\Documents\c#\Appweb\Appweb\obj\Debug\net8.0\Appweb.sourcelink.json

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "f69PLpQRTqMyi2eT9MXLYZCLcVbH6RW6usariLHb3uo=",
+  "Hash": "Yl0RZu+TcxYm5o/HOLidtp3m+e4Z5idAA5rzaK33BPE=",
   "Source": "Appweb",
   "BasePath": "_content/Appweb",
   "Mode": "Default",
@@ -148,6 +148,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\grafica1.png"
+    },
+    {
+      "Identity": "C:\\Users\\alopez01\\OneDrive - Ellucian Company L.P\\Documents\\c#\\Appweb\\Appweb\\wwwroot\\images\\Kalman.png",
+      "SourceId": "Appweb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alopez01\\OneDrive - Ellucian Company L.P\\Documents\\c#\\Appweb\\Appweb\\wwwroot\\",
+      "BasePath": "_content/Appweb",
+      "RelativePath": "images/Kalman.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Kalman.png"
     },
     {
       "Identity": "C:\\Users\\alopez01\\OneDrive - Ellucian Company L.P\\Documents\\c#\\Appweb\\Appweb\\wwwroot\\images\\maximo.png",
@@ -338,6 +357,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\rango.png"
+    },
+    {
+      "Identity": "C:\\Users\\alopez01\\OneDrive - Ellucian Company L.P\\Documents\\c#\\Appweb\\Appweb\\wwwroot\\images\\Regresion_lineal.png",
+      "SourceId": "Appweb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\alopez01\\OneDrive - Ellucian Company L.P\\Documents\\c#\\Appweb\\Appweb\\wwwroot\\",
+      "BasePath": "_content/Appweb",
+      "RelativePath": "images/Regresion_lineal.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Regresion_lineal.png"
     },
     {
       "Identity": "C:\\Users\\alopez01\\OneDrive - Ellucian Company L.P\\Documents\\c#\\Appweb\\Appweb\\wwwroot\\images\\tabla1.png",

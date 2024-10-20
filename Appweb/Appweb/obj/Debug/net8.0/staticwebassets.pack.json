@@ -17,6 +17,14 @@
       "PackagePath": "staticwebassets\\images\\1.jpg"
     },
     {
+      "Id": "C:\\Users\\alopez01\\OneDrive - Ellucian Company L.P\\Documents\\c#\\Appweb\\Appweb\\wwwroot\\images\\Kalman.png",
+      "PackagePath": "staticwebassets\\images\\Kalman.png"
+    },
+    {
+      "Id": "C:\\Users\\alopez01\\OneDrive - Ellucian Company L.P\\Documents\\c#\\Appweb\\Appweb\\wwwroot\\images\\Regresion_lineal.png",
+      "PackagePath": "staticwebassets\\images\\Regresion_lineal.png"
+    },
+    {
       "Id": "C:\\Users\\alopez01\\OneDrive - Ellucian Company L.P\\Documents\\c#\\Appweb\\Appweb\\wwwroot\\images\\desviacion.png",
       "PackagePath": "staticwebassets\\images\\desviacion.png"
     },

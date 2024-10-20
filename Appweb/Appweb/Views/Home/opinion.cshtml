@@ -1,0 +1,57 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewBag.Title = "Encuesta sobre el cambio del precio de la gasolina";
+}
+
+<h2>Encuesta sobre el cambio del precio de la gasolina</h2>
+
+<form method="post" action="/Encuesta/Submit">
+    <div>
+        <label>1. ¿Con qué frecuencia llenas el tanque de gasolina?</label><br />
+        <input type="radio" name="frecuencia" value="Una vez por semana" /> Una vez por semana<br />
+        <input type="radio" name="frecuencia" value="Dos veces por semana" /> Dos veces por semana<br />
+        <input type="radio" name="frecuencia" value="Una vez al mes" /> Una vez al mes<br />
+        <input type="radio" name="frecuencia" value="Menos de una vez al mes" /> Menos de una vez al mes<br />
+    </div>
+    <br />
+
+    <div>
+        <label>2. ¿Cómo te afecta el aumento del precio de la gasolina?</label><br />
+        <input type="radio" name="afecta" value="Mucho" /> Mucho<br />
+        <input type="radio" name="afecta" value="Algo" /> Algo<br />
+        <input type="radio" name="afecta" value="Poco" /> Poco<br />
+        <input type="radio" name="afecta" value="No me afecta" /> No me afecta<br />
+    </div>
+    <br />
+
+    <div>
+        <label>3. ¿Has cambiado tu forma de transporte debido al precio de la gasolina?</label><br />
+        <input type="radio" name="transporte" value="Uso más transporte público" /> Sí, uso más transporte público<br />
+        <input type="radio" name="transporte" value="Comparto viajes" /> Sí, comparto viajes<br />
+        <input type="radio" name="transporte" value="Sigo usando mi coche igual" /> No, sigo usando mi coche igual<br />
+        <input type="radio" name="transporte" value="Lo estoy considerando" /> No, pero lo estoy considerando<br />
+    </div>
+    <br />
+
+    <div>
+        <label>4. ¿Qué opinas del uso de energías alternativas para reducir el consumo de gasolina?</label><br />
+        <input type="radio" name="energia" value="Muy favorable" /> Muy favorable<br />
+        <input type="radio" name="energia" value="Algo favorable" /> Algo favorable<br />
+        <input type="radio" name="energia" value="Indiferente" /> Indiferente<br />
+        <input type="radio" name="energia" value="Desfavorable" /> Desfavorable<br />
+    </div>
+    <br />
+
+    <div>
+        <label>5. ¿Cuánto estás dispuesto a pagar por un litro de gasolina antes de considerar alternativas?</label><br />
+        <input type="radio" name="precio" value="Hasta 20 MXN" /> Hasta 20 MXN<br />
+        <input type="radio" name="precio" value="Hasta 25 MXN" /> Hasta 25 MXN<br />
+        <input type="radio" name="precio" value="Hasta 30 MXN" /> Hasta 30 MXN<br />
+        <input type="radio" name="precio" value="Más de 30 MXN" /> Más de 30 MXN<br />
+    </div>
+    <br />
+
+    <input type="submit" value="Enviar encuesta" />
+</form>
